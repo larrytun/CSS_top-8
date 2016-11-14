@@ -1,0 +1,126 @@
+h2 {
+  color: #CF7139;
+  padding: 10px;
+}
+
+
+.red {
+  color: red;
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+.nav-bar {
+  background-color: #FFCE99;
+}
+
+.friends {
+  padding-left: 10px;
+  margin-top: -10px;
+}
+
+.profile-pic {
+  height: 200px;
+  width: 200px;
+  background-size: cover;
+  background-position: center;
+  margin-left: 50px;
+  border: 3px solid;
+  border-color: blue;
+}
+
+.person {
+  text-align: center;
+  width: 300px;
+}
+
+.name {
+  color: blue;
+  font-weight: 900;
+  margin-bottom: 5px;
+}
+
+.online {
+  color: #449945;
+  margin-left: 0px;
+  margin-top: 5px;
+}
+
+.container {
+  width: 1200px;
+}
+
+.view-all {
+  float: right;
+  text-align: right;
+  color: red;
+}
+
+#pic1 {
+  background-image: url("http://lorempixel.com/300/300/people/1");
+}
+
+#pic2 {
+  background-image: url("http://lorempixel.com/300/300/people/2");
+}
+
+#pic3 {
+  background-image: url("http://lorempixel.com/300/300/people/3");
+}
+
+#pic4 {
+  background-image: url("http://lorempixel.com/300/300/people/4");
+}
+
+#pic5 {
+  background-image: url("http://lorempixel.com/300/300/people/5");
+}
+
+#pic6 {
+  background-image: url("http://lorempixel.com/300/300/people/6");
+}
+
+#pic7 {
+  background-image: url("http://lorempixel.com/300/300/people/7");
+}
+
+#pic8 {
+  background-image: url("http://lorempixel.com/300/300/people/8");
+}
+
+#person2 {
+  float: left;
+  margin-top: -291px;
+  margin-left: 300px;
+}
+
+#person3 {
+  float: left;
+  margin-top: -291px;
+  margin-left: 600px;
+}
+
+#person4 {
+  float: left;
+  margin-top: -291px;
+  margin-left: 900px;
+}
+
+#person5 {
+  float: left;
+}
+
+#person6 {
+  float: left;
+
+}
+
+#person7 {
+  float: left;
+
+}
+
+#person8 {
+  float: left;
+
+}
